@@ -1,0 +1,116 @@
+<!Dpctype html>
+<html>
+<style>
+
+#titleName
+{
+position:absolute;font-size:25Px;
+top:350px;left:120Px;
+}
+
+#viewWork
+{
+position:absolute;
+top:470;left:330px;
+}
+
+#backGroundImage
+{
+width:700px;height:800px;
+background-color:white;
+}
+
+.button1
+{
+border-radius:50px;
+}
+
+#titleDescription
+{
+position:absolute;
+top:410px;left:200px;
+}
+
+#firstImage
+{
+width:1200px;height:700Px;
+}
+
+#secondImage
+{
+width:1200px;height:700Px;
+}
+
+#thirdImage
+{
+width:1200px;height:700Px;
+}
+
+#fourthImage
+{
+width:1200px;height:700Px;
+}
+
+#firstImageName
+{
+position:absolute;
+left:550px;
+font-size:25px;
+}
+
+#secondImageName
+{
+position:absolute;
+left:550px;
+font-size:25px;
+}
+
+#thirdImageName
+{
+position:absolute;
+left:550px;
+font-size:25px;	 	
+}
+
+#ourWork
+{
+text-align:right;
+color:white;
+position:absolute;
+top:118%;left:38%;
+
+}
+
+
+</style>
+
+<body bgcolor="lightgrey">
+
+<div class="right"><header id="titleName"><h1>NEO PHOTOGRAPHY</h1></header>
+<h2 id="titleDescription">Beautiful Commercial Photography</h2> 
+<br><img id="backGroundImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUA4GwPFYCGOBuDiNHeUfIJRq_vqvhvoe8rQ&usqp=CAU" alt ="neo photography" align="right" </img>
+<a id="ViewWork"><button class="button1">View Work</button></a>
+
+
+<header id="ourWork"><h3="center">| Our Work |</h3></header>
+<img id="firstImage" src="https://tse2.mm.bing.net/th?id=OIP.Z6aQOkcGAt2fNCFN9C1bdgHaEK&pid=Api&P=0"> </img>
+<p>.</p>
+
+
+<img id="secondImage" src="https://tse2.mm.bing.net/th?id=OIP.bQ7gOiG46sASkOq8VbDeMwHaE8&pid=Api&P=0">  </img>
+<br><p id="firstImageName">Food Photography</P>
+<br>
+<br>
+
+
+
+<br><img id="thirdImage" src="https://tse4.mm.bing.net/th?id=OIP.A7i3cFYqDqf6sE52S9Fq4AHaE8&pid=Api&P=0"> </img>
+<br><p id="secondImageName">Aerial Photography</p>
+<br>
+<br>
+<br>
+
+<img id="fourthImage" src="https://tse3.mm.bing.net/th?id=OIP.RfsDtBDbyCUbRTvPXqyH1AHaE4&pid=Api&P=0"> </img>
+<p id="thirdImageName">Abstract Photography</P>
+</body>
+</html>
